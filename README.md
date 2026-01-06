@@ -196,7 +196,8 @@ Terminal: Select Default Profile
 Command Prompt
 ```
 - Open a new terminal by
-Terminal → New Terminal 0r or press Ctrl + `
+Terminal → New Terminal or press Ctrl + `
+
 You should now see a prompt like: C:\Users\... (not PS C:\...) 
 - Activate Conda
 ```
